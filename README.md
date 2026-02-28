@@ -1,6 +1,14 @@
-# FOR-MTK-DEVICES
-SP Flash Tool errors and the important warnings and process to install custom ROM and recovery 
-I try on Realme 6i RMX2002.
+# ⚠️ Download Notice
+
+> GitHub restricts file uploads to **25 MB**, so all files are hosted on Telegram.
+
+## 📲 Download All Files from Telegram
+
+👉 **Join the channel:** [t.me/+f7IOg8sVesZhZDll](https://t.me/+f7IOg8sVesZhZDll)
+
+All required files (firmware, tools, recovery images, etc.) are available there.
+
+---
 
 # For Connecting to PC
 1. Install MTK driver
