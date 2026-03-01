@@ -4,7 +4,7 @@
 
 ## 📲 Download All Files from Telegram
 
-👉 **Join the channel:** [t.me/+f7IOg8sVesZhZDll](https://t.me/+f7IOg8sVesZhZDll)
+👉 **Join the channel:** ([t.me/SPFTtools](https://t.me/SPFTtools))
 
 All required files (firmware, tools, recovery images, etc.) are available there.
 
